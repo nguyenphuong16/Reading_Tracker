@@ -1,7 +1,7 @@
 # CP1404 Assignment 1 - Reading Tracker
 Assignment 1 for CP1404/CP5632, IT@JCU
 
-By: _Your Name_
+By: _Vu Le Nguyen Phuong_
 
 This repo contains starter files including a Python file and two CSV files.  
 `books.csv` is a data file for you to use.  
@@ -14,8 +14,7 @@ See https://trello.com/c/6H24THnj/21-wakatime-time-tracking-for-ides-join-our-le
 
 
 1. How long did the entire project (assignment 1) take you?
-> answer...
+>  i did the entire project for 2 days
 
 
-2. What do you plan to do  differently in your development process for assignment 2?
-> answer...
+
